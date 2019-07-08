@@ -16,6 +16,7 @@
 
 <br>
 <h3>Day 1/60 (6/27/2019)</h3>
+<hr>
 <h4>Step 1:</h4>  
 <p>pledge made 6/27/2019</p> 
 <h4>Step 2:</h4>  
@@ -37,6 +38,7 @@
 
 <br>
 <h3>Day 2/60 (6/28/2019)</h3>
+<hr>
 <h4>Step 1:</h4> 
 <p>Pledge made 6/27/2019</p>  
 <h4>Step 2:</h4> 
@@ -60,6 +62,7 @@
 
 <br>
 <h3>Day 3/60 (6/29/2019)</h3>
+<hr>
 <h4>Step 1:</h4>
 <p>pledge made 6/27/2019</p>
 <h4>Step 2:</h4>   
@@ -91,6 +94,7 @@
 
 <br>
 <h3>Day 4/60 (6/30/2019)</h3>
+<hr>
 <h4>Step 1:</h4>
 <p>pledge made 6/27/2019</p>
 <h4>Step 2:</h4>
@@ -120,6 +124,7 @@
 
 <br>
 <h3>Day 5/60 (7/1/2019)</h3>
+<hr>
 <h4>Step 1:</h4>
 <p>pledge made 6/27/2019</p>
 <h4>Step 2:</h4>   
@@ -149,6 +154,7 @@
 
 <br>
 <h3>Day 6/60 (7/2/2019)</h3>
+<hr>
 <h4>Step 1:</h4>
 <p>pledge made 6/27/2019</p>
 <h4>Step 2:</h4>
@@ -177,6 +183,7 @@
   
 <br>
 <h3>Day 7/60 (7/3/2019)</h3>
+<hr>
 <h4>Step 1:</h4>
 <p>pledge made 6/27/2019</p>  
 <h4>Step 2:</h4>   
@@ -214,6 +221,7 @@
 
 <br>
 <h3>Day 8/60 (7/4/2019)</h3>
+<hr>
 <h4>Step 1:</h4>
 <p>pledge made 6/27/2019</p>
 <h4>Step 2:</h4>
@@ -243,7 +251,8 @@
 
 <br>
 <h3>Day 9/60 (7/5/2019)</h3>
-<h4?Step 1:</h4>
+<hr>
+<h4>Step 1:</h4>
 <p>pledge made 6/27/2019</p>
 <h4>Step 2:</h4>
 <ul>
@@ -276,6 +285,7 @@
 
 <br>
 <h3>Day 10/60 (7/6/2019)</h3>
+<hr>
 <h4>Step 1:</h4>
 <p>pledge made 6/27/2019</p>
 <h4>Step 2:</h4>
@@ -303,8 +313,9 @@
   <li>@Dishin Goyani</li>
 </ul>
 
-
+<br>
 <h3>Day 11/60 (7/7/2019)</h3>
+<hr>
 <h4>Step 1:</h4>
 <p>pledge made 6/27/2019</p>
 <h4>Step 2:</h4>
@@ -333,6 +344,7 @@
 
 <br>
 <h3>Day 12/60 (7/8/2019)</h3>
+<hr>
 <h4>Step 1:</h4>
 <p>pledge made 6/27/2019</p>
 <h4>Step 2:</h4>
@@ -348,7 +360,7 @@
 </ul>
 <h4>Step 3:</h4>  
 <p>hello world!</p>
-<h4>Step 4:</p>
+<h4>Step 4:</h4>
 <p>Shout-out to my #60daysofUdacity friends! You got this! :bananadance:</p>
 <ul>
   <li>@Anju Mercian</li>
