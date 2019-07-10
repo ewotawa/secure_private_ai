@@ -384,6 +384,7 @@
     <ul>
       <li>Discussing plans for kick-off event on 7/12/2019.</li>
       <li>Contacted @akshit.udacity for details on how to schedule a YouTube session that includes both livestream and screen sharing.</li>
+      <li>Closed Project T-Shirt survey regarding types of swag, charity to receive donations, etc.</li>
       <li>Shout-out to the team: @Sarah Majors, @Parth Hiren Shah, @LauraT, @KT, @Yaak :all_the_things: Y'all are awesome!</li>
     </ul>
   </li>
