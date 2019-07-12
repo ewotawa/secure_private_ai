@@ -435,3 +435,41 @@
   <li>@Dushyant Pathak</li>
   <li>@Dishin Goyani</li>
 </ul>
+
+<br>
+<h3>Day 15/60 (7/11/2019)</h3>
+<hr>
+<h4>Step 1:</h4>
+<p>pledge made 6/27/2019</p>
+<h4>Step 2:</h4>
+<ul>
+  <li>Lesson 7: Federated Learning: No progress today.</li>
+  <li>Progress continues on Project T-Shirt:  
+    <ul>
+      <li>Prepared for kick-off event on 7/12/2019.
+        <ul>
+          <li>Activated YouTube account and scheduled LiveStream event for 12:00 PM EST on Friday, July 12. <a href="https://www.youtube.com/watch?v=LVRhGK1lG98">Link here</a></li>
+          <li>Organized Skype contacts in advance so that we can stream the call over YouTube.</li>
+          <li>Configured OBS Studio encoder to broadcast the Skype call</li>
+          <li>Created <a href="https://docs.google.com/presentation/d/e/2PACX-1vRs-TDE4z31UX-LxrhFRsZ4mrMmW3xs6cLRd_5YaufKvlkiASyfwJTS3Jjsfq53eA/pub?start=false&loop=false&delayms=3000">flyer</a> to advertise the event.</li>
+        </ul>
+      </li>
+      <li>Shout-out to the team: @Sarah Majors, @Parth Hiren Shah, @LauraT, @KT, @Yaak :all_the_things: Y'all are awesome!</li>
+    </ul>
+  </li>
+  <li>In the process of evacuating for Tropical Storm/Hurricane Barry.</li>
+  <li>Archived #60DaysofUdacity activity in README of the <a href="https://github.com/ewotawa/secure_private_ai">GitHub repo</a> where I am storing my notebooks: <a href="https://github.com/ewotawa/secure_private_ai">https://github.com/ewotawa/secure_private_ai</a></li> 
+</ul>
+<h4>Step 3:</h4>  
+<p>hello world!</p>
+<h4>Step 4:</h4>
+<p>Shout-out to my #60daysofUdacity friends! You got this! :bananadance:</p>
+<ul>
+  <li>@Anju Mercian</li>
+  <li>@cibaca</li>
+  <li>@Aleksandra Deis</li>
+  <li>@Livia Lohanda</li>
+  <li>@Irene0000</li>
+  <li>@Dushyant Pathak</li>
+  <li>@Dishin Goyani</li>
+</ul>
