@@ -473,3 +473,40 @@
   <li>@Dushyant Pathak</li>
   <li>@Dishin Goyani</li>
 </ul>
+
+<br>
+<h3>Day 16/60 (7/12/2019)</h3>
+<hr>
+<h4>Step 1:</h4>
+<p>pledge made 6/27/2019</p>
+<h4>Step 2:</h4>
+<ul>
+  <li>Lesson 7: Federated Learning: No progress today.</li>
+  <li>Progress continues on Project T-Shirt:  
+    <ul>
+      <li>Hosted kick-off event on 7/12/2019.
+        <ul>
+          <li>Experienced some livestreaming technical difficulties, most likely due to bandwidth and PC.</li>
+          <li>Recorded conversation with core team and will post to YouTube 7/13/2019.</li>
+          <li>HUGE thank you to @KT for an excellent walk-through of her GAN project notebook. I highly recommend checking it out once posted!</li>
+        </ul>
+      </li>
+      <li>Shout-out to the team: @Sarah Majors, @Parth Hiren Shah, @LauraT, @KT, @Yaak :all_the_things: Y'all are awesome!</li>
+    </ul>
+  </li>
+  <li>Finished evacuating for Tropical Storm/Hurricane Barry.</li>
+  <li>Archived #60DaysofUdacity activity in README of the <a href="https://github.com/ewotawa/secure_private_ai">GitHub repo</a> where I am storing my notebooks: <a href="https://github.com/ewotawa/secure_private_ai">https://github.com/ewotawa/secure_private_ai</a></li> 
+</ul>
+<h4>Step 3:</h4>  
+<p>hello world!</p>
+<h4>Step 4:</h4>
+<p>Shout-out to my #60daysofUdacity friends! You got this! :bananadance:</p>
+<ul>
+  <li>@Anju Mercian</li>
+  <li>@cibaca</li>
+  <li>@Aleksandra Deis</li>
+  <li>@Livia Lohanda</li>
+  <li>@Irene0000</li>
+  <li>@Dushyant Pathak</li>
+  <li>@Dishin Goyani</li>
+</ul>
