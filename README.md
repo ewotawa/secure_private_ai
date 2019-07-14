@@ -525,7 +525,6 @@
       <li>Shout-out to the team: @Sarah Majors, @Parth Hiren Shah, @LauraT, @KT, @Yaak :all_the_things: Y'all are awesome!</li>
     </ul>
   </li>
-  <li>Finished evacuating for Tropical Storm/Hurricane Barry.</li>
   <li>Archived #60DaysofUdacity activity in README of the <a href="https://github.com/ewotawa/secure_private_ai">GitHub repo</a> where I am storing my notebooks: <a href="https://github.com/ewotawa/secure_private_ai">https://github.com/ewotawa/secure_private_ai</a></li> 
 </ul>
 <h4>Step 3:</h4>  
