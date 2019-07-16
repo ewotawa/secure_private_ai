@@ -570,3 +570,38 @@
   <li>@Dushyant Pathak</li>
   <li>@Dishin Goyani</li>
 </ul>
+
+<br>
+<h3>Day 19/60 (7/15/2019)</h3>
+<hr>
+<h4>Step 1:</h4>
+<p>pledge made 6/27/2019</p>
+<h4>Step 2:</h4>
+<ul>
+  <li>Lesson 7: Federated Learning: 
+    <ul>
+      <li>Watched videos through 12: Final Project Description</li>
+      <li>Did prep work for the final project: figuring out which dataset to use, reviewing resources classmates have recommended on #l6_federated_learning, etc. Thanks to @Ajay Singh and @Archit for pointing me in the right direction!</li>
+    </ul>
+  </li>
+  <li>Progress continues on Project T-Shirt:  
+    <ul>
+      <li>Monitoring the Slack channel for questions. Much thanks to the team for their troubleshooting and support for those interested in the project.</li>
+      <li>Shout-out to the team: @Sarah Majors, @Parth Hiren Shah, @LauraT, @KT, @Yaak :all_the_things: Y'all are awesome!</li>
+    </ul>
+  </li>
+  <li>Archived #60DaysofUdacity activity in README of the <a href="https://github.com/ewotawa/secure_private_ai">GitHub repo</a> where I am storing my notebooks: <a href="https://github.com/ewotawa/secure_private_ai">https://github.com/ewotawa/secure_private_ai</a></li> 
+</ul>
+<h4>Step 3:</h4>  
+<p>hello world!</p>
+<h4>Step 4:</h4>
+<p>Shout-out to my #60daysofUdacity friends! You got this! :bananadance:</p>
+<ul>
+  <li>@Anju Mercian</li>
+  <li>@cibaca</li>
+  <li>@Aleksandra Deis</li>
+  <li>@Livia Lohanda</li>
+  <li>@Irene0000</li>
+  <li>@Dushyant Pathak</li>
+  <li>@Dishin Goyani</li>
+</ul>
