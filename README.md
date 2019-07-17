@@ -605,3 +605,44 @@
   <li>@Dushyant Pathak</li>
   <li>@Dishin Goyani</li>
 </ul>
+
+<br>
+<h3>Day 20/60 (7/16/2019)</h3>
+<hr>
+<h4>Step 1:</h4>
+<p>pledge made 6/27/2019</p>
+<h4>Step 2:</h4>
+<ul>
+  <li>Lesson 7: Federated Learning: 
+    <ul>
+      <li>Started working on Final Project. Running into a few issues (see below). I am using Google Colab. I imported the OpenMined notebook associated with <a href="https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/">DEEP LEARNING -> FEDERATED LEARNING IN 10 LINES OF PYTORCH + PYSYFT</a> into Colab and saw the same issues with the sample notebook.
+        <ul>
+          <li>I can't move the model from the CPU to the GPU.</li>
+          <li>I receive the following message when I attempt to run the test method: <i>"_pickle.PicklingError: Can't pickle <class 'syft.frameworks.torch.tensors.interpreters.native.Tensor'>: attribute lookup Tensor on syft.frameworks.torch.tensors.interpreters.native failed
+"</i>. </li>
+          <li>Posted my issues in #l6_federated_learning. Any and all advice would be greatly appreciated.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Progress continues on Project T-Shirt:  
+    <ul>
+      <li>Monitoring the Slack channel for questions. Much thanks to the team for their troubleshooting and support for those interested in the project.</li>
+      <li>Shout-out to the team: @Sarah Majors, @Parth Hiren Shah, @LauraT, @KT, @Yaak :all_the_things: Y'all are awesome!</li>
+    </ul>
+  </li>
+  <li>Archived #60DaysofUdacity activity in README of the <a href="https://github.com/ewotawa/secure_private_ai">GitHub repo</a> where I am storing my notebooks: <a href="https://github.com/ewotawa/secure_private_ai">https://github.com/ewotawa/secure_private_ai</a></li> 
+</ul>
+<h4>Step 3:</h4>  
+<p>hello world!</p>
+<h4>Step 4:</h4>
+<p>Shout-out to my #60daysofUdacity friends! You got this! :bananadance:</p>
+<ul>
+  <li>@Anju Mercian</li>
+  <li>@cibaca</li>
+  <li>@Aleksandra Deis</li>
+  <li>@Livia Lohanda</li>
+  <li>@Irene0000</li>
+  <li>@Dushyant Pathak</li>
+  <li>@Dishin Goyani</li>
+</ul>
