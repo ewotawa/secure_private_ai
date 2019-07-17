@@ -620,9 +620,9 @@
           <li>I can't move the model from the CPU to the GPU.</li>
           <li>I receive the following message when I attempt to run the test method: <i>"_pickle.PicklingError: Can't pickle <class 'syft.frameworks.torch.tensors.interpreters.native.Tensor'>: attribute lookup Tensor on syft.frameworks.torch.tensors.interpreters.native failed
 "</i>. </li>
-          <li>Posted my issues in #l6_federated_learning. Any and all advice would be greatly appreciated.</li>
         </ul>
       </li>
+      <li>Posted my issues in #l6_federated_learning. Any and all advice would be greatly appreciated.</li>
     </ul>
   </li>
   <li>Progress continues on Project T-Shirt:  
