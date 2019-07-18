@@ -646,3 +646,45 @@
   <li>@Dushyant Pathak</li>
   <li>@Dishin Goyani</li>
 </ul>
+
+
+<br>
+<h3>Day 21/60 (7/17/2019)</h3>
+<hr>
+<h4>Step 1:</h4>
+<p>pledge made 6/27/2019</p>
+<h4>Step 2:</h4>
+<ul>
+  <li>Lesson 7: Federated Learning: 
+    <ul>
+      <li>Substantial progress on final project:
+        <ul>
+          <li>Contacted the OpenMined folks about my issues reported on Day 20/60.</li>
+          <li>Learned that PySyft currently cannot support GPU.</li>
+          <li>I had removed all references to the GPU except **kwargs, which I referenced in the definitions of my federated_trainloader and testloader. After I removed those arguments, the model trained without a problem.</li>
+          <li>Asked the team in #l6_federated_learning for help understanding if disaggregated gradients come back to the local machine if using the federated trainloader approach to training a model remotely.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Progress continues on Project T-Shirt:  
+    <ul>
+      <li>Monitoring the Slack channel for questions. Much thanks to the team for their troubleshooting and support for those interested in the project.</li>
+      <li>Shout-out to the team: @Sarah Majors, @Parth Hiren Shah, @LauraT, @KT, @Yaak :all_the_things: Y'all are awesome!</li>
+    </ul>
+  </li>
+  <li>Archived #60DaysofUdacity activity in README of the <a href="https://github.com/ewotawa/secure_private_ai">GitHub repo</a> where I am storing my notebooks: <a href="https://github.com/ewotawa/secure_private_ai">https://github.com/ewotawa/secure_private_ai</a></li> 
+</ul>
+<h4>Step 3:</h4>  
+<p>hello world!</p>
+<h4>Step 4:</h4>
+<p>Shout-out to my #60daysofUdacity friends! You got this! :bananadance:</p>
+<ul>
+  <li>@Anju Mercian</li>
+  <li>@cibaca</li>
+  <li>@Aleksandra Deis</li>
+  <li>@Livia Lohanda</li>
+  <li>@Irene0000</li>
+  <li>@Dushyant Pathak</li>
+  <li>@Dishin Goyani</li>
+</ul>
