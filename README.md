@@ -759,3 +759,41 @@
   <li>@Dushyant Pathak</li>
   <li>@Dishin Goyani</li>
 </ul>
+
+
+<br>
+<h3>Day 24/60 (7/20/2019)</h3>
+<hr>
+<h4>Step 1:</h4>
+<p>pledge made 6/27/2019</p>
+<h4>Step 2:</h4>
+<ul>
+  <li>Lesson 8: Securing Federated Learning: 
+    <ul>
+      <li>Revising final project from Lesson 7.</li>
+      <li>Huge thank-you to @Edgar Villegas for posting his GitHub repo in #60DaysofUdacity. (https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563448157249400) I was having a hard time wrapping my head around training the models individually on the different workers and found your method very informative.</li>
+      <li>Need to get my head wrapped around deconstructing weights and biases in the individual models so that I can add them together.</li>
+    </ul>
+  </li>
+  <li>Progress continues on Project T-Shirt:  
+    <ul>
+      <li>Monitoring the Slack channel for questions. Much thanks to the team for their troubleshooting and support for those interested in the project.</li>
+      <li>Uploaded a few images to the Facebook Group for a participant without access to Facebook. </li>
+      <li>Shout-out to the team: @Sarah Majors, @Parth Hiren Shah, @LauraT, @KT, @Yaak :all_the_things: Y'all are awesome!</li>
+    </ul>
+  </li>
+  <li>Archived #60DaysofUdacity activity in README of the <a href="https://github.com/ewotawa/secure_private_ai">GitHub repo</a> where I am storing my notebooks: <a href="https://github.com/ewotawa/secure_private_ai">https://github.com/ewotawa/secure_private_ai</a></li> 
+</ul>
+<h4>Step 3:</h4>  
+<p>hello world!</p>
+<h4>Step 4:</h4>
+<p>Shout-out to my #60daysofUdacity friends! You got this! :bananadance:</p>
+<ul>
+  <li>@Anju Mercian</li>
+  <li>@cibaca</li>
+  <li>@Aleksandra Deis</li>
+  <li>@Livia Lohanda</li>
+  <li>@Irene0000</li>
+  <li>@Dushyant Pathak</li>
+  <li>@Dishin Goyani</li>
+</ul>
