@@ -1130,7 +1130,7 @@
 <ul>
   <li>Lesson 9: Encrypted Deep Learning: 
     <ul>
-      <li>No progres today.</li>
+      <li>No progress today.</li>
     </ul>
   </li>
   <li>Progress continues on Project T-Shirt:  
