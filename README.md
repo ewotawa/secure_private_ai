@@ -1190,3 +1190,50 @@
   <li>@Dushyant Pathak</li>
   <li>@Dishin Goyani</li>
 </ul>
+
+<br>
+<h3>Day 36/60 (8/1/2019)</h3>
+<hr>
+<h4>Step 1:</h4>
+<p>pledge made 6/27/2019</p>
+<h4>Step 2:</h4>
+<ul>
+  <li>Lesson 9: Encrypted Deep Learning: 
+    <ul>
+      <li>No progress today.</li>
+    </ul>
+  </li>
+  <li>Progress continues on Project T-Shirt:  
+    <ul>
+      <li>A few gallery updates:
+        <ul>
+          <li>I sorted the images by student/team. Standardized naming conventions where there was some variation.</li>
+          <li>I turned on @Abhishek Lalwani's Iron Man images, after we confirmed that the image was in the public domain.</li>
+          <li>I corrected the inadvertent duplication/swap of one of @Rishi S Rao’s images.</li>
+          <li>Turned on a Kung Fu Panda image from team unstoppable that I had inadvertently turned off.</li>
+        </ul>
+      </li>
+      <li>Next gallery steps:
+        <ul>
+          <li>I'll work on consolidating @Suparna S Nair's combinations of image and shirt design. Probably won't get to this one until late Friday.</li>
+        </ul>
+      </li>
+      <li>Monitoring the Slack channel for questions. Much thanks to the team for their troubleshooting and support for those interested in the project.</li>
+      <li>Shout-out to the team: @Sarah Majors, @Parth Hiren Shah, @LauraT, @KT, @Yaak :all_the_things: Y'all are awesome!</li>
+    </ul>
+  </li>
+  <li>Archived #60DaysofUdacity activity in README of the <a href="https://github.com/ewotawa/secure_private_ai">GitHub repo</a> where I am storing my notebooks: <a href="https://github.com/ewotawa/secure_private_ai">https://github.com/ewotawa/secure_private_ai</a></li> 
+</ul>
+<h4>Step 3:</h4>  
+<p>hello world!</p>
+<h4>Step 4:</h4>
+<p>Shout-out to my #60daysofUdacity friends! You got this! :bananadance:</p>
+<ul>
+  <li>@Anju Mercian</li>
+  <li>@cibaca</li>
+  <li>@Aleksandra Deis</li>
+  <li>@Livia Lohanda</li>
+  <li>@Irene0000</li>
+  <li>@Dushyant Pathak</li>
+  <li>@Dishin Goyani</li>
+</ul>
